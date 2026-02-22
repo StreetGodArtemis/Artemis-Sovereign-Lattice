@@ -1,0 +1,14 @@
+# Artemis Local Tools
+update_readme.sh
+*.sh
+
+# Go/Binaries
+go/
+bin/
+gitleaks
+
+# System/Environment
+.env
+*.log
+__pycache__/
+.DS_Store
