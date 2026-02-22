@@ -1,0 +1,1 @@
+/data/data/com.termux/files/home/Artemis_Foundry/core/artemis_vision.py
