@@ -16,3 +16,6 @@ This certificate confirms that the Artemis project is the **original and indepen
 
 **Signed:** Jerry Wayne Dawson Jr.
 **Date:** March 5, 2026 (10:35 PM CST)
+
+---
+**NOTICE:** All mentions of Institutional or Federal standards are for performance benchmarking purposes only. This project is currently an independent discovery of the Nashville Foundry and does not imply a formal endorsement by specific federal agencies at this stage.
