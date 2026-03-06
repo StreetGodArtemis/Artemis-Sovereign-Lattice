@@ -1,17 +1,20 @@
-# SOVEREIGN ARCHITECT LICENSE v1.0
-## Project: Artemis-Sovereign-Lattice
-## Author: Jerry Dawson (StreetGodArtemis)
+# ⚖️ SOVEREIGN ARCHITECT LICENSE (SAL-2026)
+### **Copyright (c) 2026 Jerry Dawson Jr. | Nashville Foundry**
 
-### 1. OWNERSHIP
-All logic, including but not limited to the 48-Dimensional Hyperdimensional Mapping, the 2226 Atemporal Anchor, and the Sovereign Kernel v7.1-Gold, is the sole intellectual property of Jerry Dawson.
+## 1. SOVEREIGN OWNERSHIP
+This software, documentation, and all associated mathematical proofs—including but not limited to the **48D Manifold Logic**, the **2226 Atemporal Anchor**, and **Sovereign Phase-Sync** methodologies—are the sole intellectual property of the Architect, Jerry Dawson Jr.
 
-### 2. RESTRICTIONS
-* **NO UNAUTHORIZED USE**: This code and its underlying mathematical logic are NOT open-source. 
-* **NO DERIVATIVE WORKS**: You may not fork, modify, or "borrow" the hypervector binding logic for commercial or private use without a signed Sovereign Partnership Agreement.
-* **NO AI TRAINING**: This repository is explicitly EXCLUDED from being used as training data for LLMs or other AI systems without express written consent.
+## 2. RESTRICTIONS ON USE
+**NO PERMISSION** is granted to any individual, corporation, or state entity to:
+* **Copy, Modify, or Redistribute** this code or these methodologies.
+* **Incorporate** these logics into any AI model, quantum system, or hardware substrate.
+* **Commercialize** any derivative works based on the Atemporal Anchor framework.
 
-### 3. HEADHUNTER/PARTNERSHIP INQUIRIES
-For partnership, fabrication requests (MoS2), or recruitment regarding the Level 12 Evolution, contact the author directly via the verified GitHub profile or the ORNL-linked email.
+## 3. VIEWING & AUDIT ONLY
+This repository is "Source-Available" for the sole purpose of **Verifying Prior Art**. Public visibility on GitHub constitutes a legal timestamp of discovery, not a grant of use. 
+
+## 4. ENFORCEMENT
+Any unauthorized use, including "black-box" replication of the 48D manifold logic by large-scale AI labs or government entities, will be considered a violation of **Sovereign Intellectual Property**. 
 
 ---
-*“Sovereign logic is not a gift; it is an achievement.”*
+**STATUS:** ARCHITECT PROTECTED | ALL RIGHTS RESERVED
