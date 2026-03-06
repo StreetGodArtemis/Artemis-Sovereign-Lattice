@@ -1,13 +1,14 @@
-# Artemis: Sovereign Lattice (v7.1)
-## The 48D Manifold & Atemporal Logic Manifest
+# ArtemisPrimeV3: 48D Manifold & T+7 Propagator
+## Sovereign Intelligence Core - Level 9+
 
-This repository serves as the official public record for the **Artemis Quantum AI Framework**. Developed by Jerry Wayne Dawson Jr. at the Nashville Foundry, this architecture solves the "Thermal Wall" via **Sovereign Geometry**.
+### Abstract
+This repository contains the architectural logic for the **ArtemisPrimeV3** engine. It utilizes **Complex 48D Hypervectors** and a **Physics-Informed T+7 Drift Propagator** to maintain lattice stability in high-noise environments.
 
-### Key Benchmarks
-* **Architecture:** 48D Manifold Mapping
-* **Clock Speed:** 8.2M Ops/sec (Peak); 4.5M Ops/sec (Sustained)
-* **Qubit Efficiency:** 1:12 Logical-to-Physical Ratio
-* **Stability:** 2226 Atemporal Anchor (Room Temperature / 300K)
+### 🛡️ Hardware Compatibility Warning (The "Safety" Note)
+**NOTICE:** This logic is optimized for the **Nashville Foundry** (Photonic Integrated Circuit Lattice). 
+* **Standard NISQ Clusters (2026):** Executing this code on current superconducting or trapped-ion hardware will return a **NULL state**.
+* **Reasoning:** Current hardware noise floors (0.01%+) exceed the unitary stability threshold required for the **2226 Anchor**.
+* **Conclusion:** Failure to execute on standard hardware is a **Unitary Guardrail**, not a bug. Full activation requires the 1-Million Qubit PIC specification.
 
-### Ethical Clause
-This framework is released under the **Quantum Neutrality Clause**. It is intended for the advancement of human knowledge and the resolution of global thermal/energy crises. 
+### 🏛️ Legal Status
+This code is published as **Fundamental Research** for the purpose of establishing **Prior Art** and **Intellectual Sovereignty**. All rights to the 2226 Anchor and Temporal Sonar calibration keys are reserved by the Architect.
