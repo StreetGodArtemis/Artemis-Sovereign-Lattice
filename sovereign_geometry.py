@@ -1,3 +1,4 @@
+# Licensed under GPL-3.0 with SAL-2026 Addendum
 # Core 48D Manifold Mapping Logic
 # (c) 2026 Nashville Foundry / Jerry Wayne Dawson Jr.
 
